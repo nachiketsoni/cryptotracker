@@ -1,0 +1,26 @@
+.title{
+    flex: 1%;
+    color: gold;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.selected{
+    border:1px solid gold;
+    font-weight: bold;
+}
+.MuiTouchRipple-root{
+background: transparent;
+}
+.MuiOutlinedInput-notchedOutline{
+background: transparent;
+}
+#menu-{
+    background: transparent;
+}
+.select svg{
+    background-color: rgb(39, 38, 38)!important;
+}
+.select svg path{
+    color: white!important;
+}

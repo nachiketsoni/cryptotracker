@@ -1,0 +1,1 @@
+deployed link:-https://cryptotrackernew.netlify.app
